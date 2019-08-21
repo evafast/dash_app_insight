@@ -1,4 +1,4 @@
-# dash_app_insight
+# Dash app for Insight project
 
 I recently completed the Insight Data Science program (https://www.insighthealthdata.com/). There I worked on a machine learning project predicting quality of live outcomes for living Kidney donors. For easy visualization I  made a web app using Dash. 
 
